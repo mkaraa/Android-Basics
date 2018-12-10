@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">metehan_kara_hw2_ctis487</string>
+    <string name="welcomeTxt">Welcome To E-Learning World</string>
+    <string name="doubletap">Double Click To Continue</string>
+    <string name="whichLangTxt">Which Language Do You Want To Buy ?</string>
+    <string name="thirdWelcomeTxt">Orders Owner : </string>
+    <string name="completeOrder">Complete Order</string>
+    <string name="yourOrder">Your Order is : </string>
+    <string name="money">Payment :</string>
+    <string name="purchaseTxt">Do You Want To Complete Purchase ?</string>
+    <string name="buyTxt">Do You Want To Complete Order Purchase ?</string>
+    <string name="yesBtn">YES</string>
+    <string name="noBtn">NO</string>
+    <string name="okey">Complete Order ?</string>
+</resources>
